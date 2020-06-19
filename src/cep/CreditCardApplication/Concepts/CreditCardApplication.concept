@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element:Concept xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:element="http:///com/tibco/cep/designtime/core/model/element" namespace="/Concepts/" folder="/Concepts/" name="CreditCardApplication" description="" lastModified="" GUID="02038BC7-225D-4A87-1614-DBD64F4DB5DC" ownerProjectName="CreditCardApplication" superConceptPath="" implClass="" autoStartStateMachine="true">
+  <extendedProperties/>
+  <properties namespace="" name="Name" description="" lastModified="" GUID="F94A296D-943F-0E3A-4491-40F324B51F0D" ownerProjectName="CreditCardApplication" ownerPath="/Concepts/CreditCardApplication" defaultValue="">
+    <extendedProperties/>
+  </properties>
+  <properties name="CreditType" ownerProjectName="CreditCardApplication" ownerPath="/Concepts/CreditCardApplication"/>
+  <properties namespace="" name="CardIssued" description="" lastModified="" GUID="94F4CA8C-2430-C1A5-1412-98FE218ED507" ownerProjectName="CreditCardApplication" type="ConceptReference" conceptTypePath="/Concepts/CreditCard" ownerPath="/Concepts/CreditCardApplication" order="4" defaultValue="">
+    <extendedProperties/>
+  </properties>
+</element:Concept>

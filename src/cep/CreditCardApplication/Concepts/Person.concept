@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element:Concept xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:element="http:///com/tibco/cep/designtime/core/model/element" namespace="/Concepts/" folder="/Concepts/" name="Person" description="" lastModified="" GUID="D15866B5-08BD-D3C2-F859-560C46FE3552" ownerProjectName="CreditCardApplication" superConceptPath="" implClass="" autoStartStateMachine="true">
+  <extendedProperties/>
+  <properties namespace="" name="Name" description="" lastModified="" GUID="F5807E56-FC7B-5C97-DCCF-0B0FCE9B36A6" ownerProjectName="CreditCardApplication" ownerPath="/Concepts/Person" defaultValue="">
+    <extendedProperties/>
+  </properties>
+  <properties namespace="" name="Gender" description="" lastModified="" GUID="2AACE5C6-AA12-1078-32D0-D20CC8D50679" ownerProjectName="CreditCardApplication" ownerPath="/Concepts/Person" order="2" defaultValue="">
+    <extendedProperties/>
+  </properties>
+  <properties namespace="" name="Age" description="" lastModified="" GUID="8BAB1269-661C-2104-DA2F-C36EBD70ACF3" ownerProjectName="CreditCardApplication" type="int" ownerPath="/Concepts/Person" order="3" defaultValue="">
+    <extendedProperties/>
+  </properties>
+  <properties namespace="" name="Address" description="" lastModified="" GUID="616FE0A8-49FD-6F80-0DC3-333AFE08BF76" ownerProjectName="CreditCardApplication" ownerPath="/Concepts/Person" order="4" defaultValue="">
+    <extendedProperties/>
+  </properties>
+  <properties namespace="" name="HasDL" description="" lastModified="" GUID="AC87D281-E471-35B3-7723-45DBB925B45A" ownerProjectName="CreditCardApplication" type="boolean" ownerPath="/Concepts/Person" order="5" defaultValue="">
+    <extendedProperties/>
+  </properties>
+  <properties namespace="" name="SSN" description="" lastModified="" GUID="905180EF-8A8D-30CE-9F5D-CA45D660FFA5" ownerProjectName="CreditCardApplication" type="long" ownerPath="/Concepts/Person" order="6" defaultValue="">
+    <extendedProperties/>
+  </properties>
+  <properties namespace="" name="Income" description="" lastModified="" GUID="01D63B86-C33F-ADC3-8CDB-E753A03F5BFD" ownerProjectName="CreditCardApplication" type="double" ownerPath="/Concepts/Person" order="7" defaultValue="">
+    <extendedProperties/>
+  </properties>
+  <properties namespace="" name="maritalStatus" description="" lastModified="" GUID="EF6B91F6-4F64-A82E-3561-D2E5FBA01976" ownerProjectName="CreditCardApplication" ownerPath="/Concepts/Person" order="8" defaultValue="">
+    <extendedProperties/>
+  </properties>
+</element:Concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element:Scorecard xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:element="http:///com/tibco/cep/designtime/core/model/element" namespace="/Concepts/" folder="/Concepts/" name="ApplicantNumber" description="" GUID="A0D52793-141F-EE5D-23A7-0C09DE6FE84B" ownerProjectName="CreditCardApplication" scorecard="true">
+  <extendedProperties/>
+  <properties name="applicants" ownerProjectName="CreditCardApplication" type="int" ownerPath="/Concepts/ApplicantNumber"/>
+</element:Scorecard>

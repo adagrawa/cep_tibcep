@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event:SimpleEvent xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:event="http:///com/tibco/cep/designtime/core/model/event" namespace="/Events/" folder="/Events/" name="ProcessApplication" description="" lastModified="" GUID="20D9CA72-4FE7-D1E9-5D1B-07E9C527BFBB" ownerProjectName="CreditCardApplication" superEventPath="" ttlUnits="Seconds" specifiedTime="-1">
+  <extendedProperties/>
+  <properties name="start" ownerProjectName="CreditCardApplication" type="boolean" ownerPath="/Events/ProcessApplication">
+    <extendedProperties/>
+  </properties>
+  <properties name="SSN" ownerProjectName="CreditCardApplication" type="long" ownerPath="/Events/ProcessApplication">
+    <extendedProperties/>
+  </properties>
+  <expiryAction namespace="" folder="/Events/ProcessApplication" name="expiryAction" description="" lastModified="" GUID="25C0CBF3-FF0D-50AB-FD05-BDE495665460" ownerProjectName="CreditCardApplication" compilationStatus="-1" actionText="" conditionText="" priority="5" maxRules="1" testInterval="-1" startTime="-1" forwardChain="true" author="">
+    <extendedProperties/>
+    <symbols>
+      <symbolList idName="event" type="/Events/ProcessApplication" typeExtension=""/>
+    </symbols>
+  </expiryAction>
+</event:SimpleEvent>
